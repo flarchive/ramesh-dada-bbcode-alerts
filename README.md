@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of ramesh-dada/bbcode-alerts.** Not for installation: use [Packagist](https://packagist.org/packages/ramesh-dada/bbcode-alerts) or the [upstream repository](https://github.com/ramesh-dada/bbcode-alerts).
 
-**0** versions archived · Latest: [`6.21`](https://github.com/flarchive/ramesh-dada-bbcode-alerts/tree/archive/v6.21) · License: `MIT` · Flarum: `^1.0`
+**8** versions archived · Latest: [`6.21`](https://github.com/flarchive/ramesh-dada-bbcode-alerts/tree/archive/v6.21) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2017-06-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ramesh-dada-bbcode-alerts/tree/archive/v0.1.0) |
+| `0.1.2` | 2017-06-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ramesh-dada-bbcode-alerts/tree/archive/v0.1.2) |
+| `0.1.3` | 2017-06-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ramesh-dada-bbcode-alerts/tree/archive/v0.1.3) |
+| `0.1.5` | 2017-06-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ramesh-dada-bbcode-alerts/tree/archive/v0.1.5) |
+| `0.1.6` | 2017-06-23 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ramesh-dada-bbcode-alerts/tree/archive/v0.1.6) |
+| `0.2.0` | 2018-12-29 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/ramesh-dada-bbcode-alerts/tree/archive/v0.2.0) |
+| `6.20` | 2021-07-09 | `^1.0` | [Browse](https://github.com/flarchive/ramesh-dada-bbcode-alerts/tree/archive/v6.20) |
+| `6.21` | 2021-07-09 | `^1.0` | [Browse](https://github.com/flarchive/ramesh-dada-bbcode-alerts/tree/archive/v6.21) |
 
 Catalog entry: [packages/ramesh-dada-bbcode-alerts.json](https://github.com/flarchive/archive-index/blob/main/packages/ramesh-dada-bbcode-alerts.json)
 
